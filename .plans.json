@@ -1,0 +1,24 @@
+{
+    "plans": [
+        {
+            "name": "TIER 1",
+            "deliveryCount": 50000
+        },
+        {
+            "name": "TIER 2",
+            "deliveryCount": 100000
+        },
+        {
+            "name": "TIER 3",
+            "deliveryCount": 500000
+        },
+        {
+            "name": "TIER 4",
+            "deliveryCount": 750000
+        },
+        {
+            "name": "TIER 5",
+            "deliveryCount": 1000000
+        }
+    ]
+}

@@ -29,7 +29,7 @@ func FetchBlockByHash(client *ethclient.Client, hash common.Hash, number string,
 
 	}
 
-	return ProcessBlockContent(client, block, _db, redis, true, queue, _status, startingAt)
+	return ProcessBlockContent(client, block, _db, redis, false, queue, _status, startingAt)
 
 }
 

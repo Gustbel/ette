@@ -13,8 +13,6 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
-.env
 ette
 node_modules
-.plans.json
 snapshot.bin
